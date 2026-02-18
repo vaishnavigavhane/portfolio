@@ -26,6 +26,5 @@ export function Header() {
       </div>
       <div className="h-[5px] w-full bg-gradient-to-r from-text-primary to-text-primary"></div>
     </div>
-
   )
 }
