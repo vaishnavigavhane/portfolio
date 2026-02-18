@@ -2,8 +2,6 @@ export function About() {
     return (
         <section className="py-20 px-6 text-white" id="About">
             <div className="container flex flex-col lg:flex-row items-center gap-20">
-
-             
                 <div className="lg:w-1/2">
                     <h2 className="text-4xl font-bold mb-4">About Me</h2>
                     <p className="text-gray-50 mb-4">
@@ -29,8 +27,6 @@ export function About() {
                         <span className="px-4 py-2 bg-teal-100 text-teal-800 rounded-full">Canva</span>
                     </div>
                 </div>
-
-              
                 <div className="lg:w-1/2 flex flex-col gap-6">   
                     <div className="grid grid-cols-2 gap-4 mt-4">
                         <div className="p-4 bg-white shadow-lg rounded-lg text-center">
@@ -42,8 +38,6 @@ export function About() {
                             <p className="text-gray-800 text-sm">Projects Completed</p>
                         </div>
                     </div>
-
-                  
                     <div className=" w-full h-48 bg-gradient-to-r from-sky-700 to-sky-950 rounded-lg shadow-lg flex flex-col items-center justify-center text-white font-bold text-xl">
         <p>💼 Open to Frontend Developer Roles</p>
         <p>📍 Remote / On-site (Immediate Joiner) </p>
