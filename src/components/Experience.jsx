@@ -14,7 +14,6 @@ export function Experience() {
                         Frontend
                     </div>
                 </div>
-
                 {/* Right Details */}
                 <div className="lg:w-2/3 flex flex-col gap-6">
 
@@ -23,7 +22,6 @@ export function Experience() {
                         <p className="text-gray-300 tracking-wider">Front-End Developer | 2023 – 2025</p>
                         <h3 className="text-4xl font-bold text-white">Earthcon Infotech</h3>
                     </div>
-
                     {/* Description */}
                     <p className="text-gray-300">
                        Over 2.5 years at Earthcon Infotech, I worked on a wide variety of projects, from static and dynamic 
@@ -46,15 +44,11 @@ export function Experience() {
                         <span className="px-4 py-2 bg-purple-500/20 text-purple-300 rounded-full font-semibold shadow-lg ">Backend Integration</span>
                         <span className="px-4 py-2 bg-green-500/20 text-green-300 rounded-full font-semibold shadow-lg ">Cross-Browser Compatibility</span>
                     </div>
-
                     {/* Animated Accent Line */}
                     <div className="relative mt-6 h-1 bg-gradient-to-r from-text-primary to-text-primary rounded-full animate-pulse"></div>
                 </div>
 
             </div>
         </section>
-
-
-
     )
 }
