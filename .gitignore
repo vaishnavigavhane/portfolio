@@ -1,0 +1,58 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+/dist
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# IDE files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS files
+Thumbs.db
+
+# cache
+.cache/
+.parcel-cache/
+
+# optional npm cache directory
+.npm
+
+# optional eslint cache
+.eslintcache
+
+# temporary files
+*.log
+*.tmp
+
+# TypeScript
+*.tsbuildinfo
+
+# gh-pages
+/.gh-pages
+
+# local Netlify folder
+.netlify
